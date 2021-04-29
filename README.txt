@@ -1,0 +1,1 @@
+this is the mini project that help me learn about JS
